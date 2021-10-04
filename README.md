@@ -1,16 +1,45 @@
-### Hi there 👋
+### Eai Genteee!!! Meu nome é Felipe Augusto. Seja bem vindo ao meu GitHub!😊😉
 
-<!--
-**FelipeAN0810/FelipeAN0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/FelipeAN0810">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAN0810&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAN0810&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Boots" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+</div>
+  
+ --- 
+ <br>
+  
+ ### 😎  Meios de Comunicação:
+  
+<div> 
+  <a href = "mailto:felipeaugusto0810@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/525022188156223498" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" ></a> 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
+  <a href="https://t.me/Felipex0810" target="_blank" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" ></a>
+</div>
+  
+<br><br>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+  
+### 🙃  Outros:
+  <a href="https://steamcommunity.com/id/killan999/" target="_blank" ><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank" ></a>
+  <a href="https://open.spotify.com/playlist/4QZn5iatxjgZzZfhejGSmv?si=3581c89fab204114" target="_blank" ><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" ></a>  
+</div>
+  
+<br>
+  
+---
+  
+![Snake animation](https://github.com/FelipeAN0810/FelipeAN0810/blob/output/github-contribution-grid-snake.svg)
