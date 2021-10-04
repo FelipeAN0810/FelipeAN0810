@@ -42,4 +42,4 @@
 
 #
 
-![Snake animation](https://github.com/FelipeAN0810/FelipeAN0810/blob/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/FelipeAN0810/FelipeAN0810/output/dist/github-contribution-grid-snake.svg)
