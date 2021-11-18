@@ -1,4 +1,4 @@
-<p style-"text-align: Center;">Eai Genteee!!! Meu nome é Felipe Augusto. Seja bem vindo ao meu GitHub!😊😉</p>
+<p style="text-align: Center;">Eai Genteee!!! Meu nome é Felipe Augusto. Seja bem vindo ao meu GitHub!😊😉</p>
 
 <div align="center">
   <a href="https://github.com/FelipeAN0810">
