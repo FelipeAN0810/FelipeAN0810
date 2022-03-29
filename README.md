@@ -17,6 +17,15 @@
   
  #
  <br>
+ 
+ ### 🥰  Quem sou:
+ <center>
+   <div>Meu nome é Felipe Augusto do Nascimento<br>Atualmente eu estudo no CEFET-MG<br>Estou no curso de INFO-3<br>E simplesmente amo a área da Tecnologia da Informação.<br>Desejo continuar na área mas focando na Automação Industrial</div></center>
+  <br>
+  
+ #
+  
+ <br>
   
  ### 😎  Meios de Comunicação:
   
@@ -34,12 +43,7 @@
 <br>
   
 ### 🙃  Outros:
+  <div>
   <a href="https://steamcommunity.com/id/killan999/" target="_blank" ><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank" ></a>
   <a href="https://open.spotify.com/playlist/4QZn5iatxjgZzZfhejGSmv?si=3581c89fab204114" target="_blank" ><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" ></a>  
 </div>
-  
-<br>
-
-  #
-  
-  ![Snake animation](https://github.com/FelipeAN0810/FelipeAN0810/blob/output/github-contribution-grid-snake.svg)
