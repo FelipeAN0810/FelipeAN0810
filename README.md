@@ -31,9 +31,8 @@
   
  #
   
- <br>
-  
- ## 😎  Meios de Comunicação:
+ 
+ ### 😎 Meios de Comunicação:
   
  <div> 
   <a href = "mailto:felipeaugusto0810@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
@@ -47,7 +46,7 @@
 #
 
   
-## 🙃  Outros:
+### 🙃 Outros:
   <div>
   <a href="https://steamcommunity.com/id/killan999/" target="_blank" ><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank" ></a>
   <a href="https://open.spotify.com/playlist/4QZn5iatxjgZzZfhejGSmv?si=3581c89fab204114" target="_blank" ><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" ></a>  
