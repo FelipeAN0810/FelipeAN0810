@@ -37,7 +37,8 @@
  
  ### 😎 Meios de Comunicação:
   
- <div> 
+ <div style="display: inline_block"> 
+  <a href = "linkedin.com/in/FelipeAN0810"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
   <a href = "mailto:felipeaugusto0810@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
   <a href="https://discordapp.com/users/525022188156223498" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="blank" ></a> 
   <a href="https://instagram.com/felipean16" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank" ></a>
@@ -47,13 +48,3 @@
 <br>
 
 #
-
-  
-### 🙃 Outros:
-  <div>
-  <a href="https://steamcommunity.com/id/killan999/" target="_blank" ><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank" ></a>
-  <a href="https://open.spotify.com/playlist/4QZn5iatxjgZzZfhejGSmv?si=3581c89fab204114" target="_blank" ><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" ></a>  
-  Linkedin 
-  Escavetor 
-  Lattes
-</div>
